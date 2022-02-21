@@ -1,0 +1,13 @@
+AlaCarte,
+Name | Description | Price | FoodType 
+Wagyu Burger,A5 Wagyu Burger with perfect caramelised crust,80.0,MAIN
+Cottage Pie,Meat pie topped with mashed potato ,38.0,MAIN
+Salad,Fat-free salad,12.0,MAIN
+Coke,Coca Cola,3.0,DRINK
+Sprite,Coke but white,3.0,DRINK
+Chips,Fish and Chips but without the fish,10.0,DESSERT
+Potato,Baked potato with fluffy interior and crisp skin,16.0,DESSERT
+PromoSet,
+Name | Description | Price | FoodType 
+Morning set,Healthy breakfast,167.0,0.2,BREAKFAST,Cottage Pie/Meat pie topped with mashed potato /38.0/MAIN-Potato/Baked potato with fluffy interior and crisp skin/16.0/DESSERT-
+Wagyu Set,Premium Healthy Set,80.0,0.1,DINNER,Wagyu Burger/A5 Wagyu Burger with perfect caramelised crust/80.0/MAIN-Chips/Fish and Chips but without the fish/10.0/DESSERT-Potato/Baked potato with fluffy interior and crisp skin/16.0/DESSERT-

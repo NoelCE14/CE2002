@@ -1,0 +1,24 @@
+               _..----.._       
+             .'     o    '.     
+            /   o       o  \    
+           |o        o     o|   
+           /'-.._o     __.-'\   
+           \      `````     /   
+           |``--........--'`|    
+            \              /
+             `'----------'`
+            Bad Street Kitchen
+            10 BayFront Avenue
+            Tel: +65 6688 5665
+           Invoice Number: 46652
+Server: Joe         Date: 2021-11-12
+Table: 5               Time: 22:34:04
+
+Order Details
+=========================================
+=========================================
+SubTotal:                       $0.00
+10% Service Charge:             $0.00
+7% GST:                         $0.00
+Total (inclusive of GST):       $0.00
+

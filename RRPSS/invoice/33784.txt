@@ -1,0 +1,28 @@
+               _..----.._       
+             .'     o    '.     
+            /   o       o  \    
+           |o        o     o|   
+           /'-.._o     __.-'\   
+           \      `````     /   
+           |``--........--'`|    
+            \              /
+             `'----------'`
+            Bad Street Kitchen
+            10 BayFront Avenue
+            Tel: +65 6688 5665
+           Invoice Number: 33784
+Server: HaoRen         Date: 2021-11-13
+Table: 6               Time: 21:26:56
+
+Order Details
+=========================================
+Ordered AlaCarte items: 
+Amount  Name                    Price
+1       Salad                   $18.00
+
+=========================================
+SubTotal:                       $18.00
+10% Service Charge:             $1.80
+7% GST:                         $1.39
+Total (inclusive of GST):       $21.06
+

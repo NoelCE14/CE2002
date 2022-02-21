@@ -1,0 +1,28 @@
+               _..----.._       
+             .'     o    '.     
+            /   o       o  \    
+           |o        o     o|   
+           /'-.._o     __.-'\   
+           \      `````     /   
+           |``--........--'`|    
+            \              /
+             `'----------'`
+            Bad Street Kitchen
+            10 BayFront Avenue
+            Tel: +65 6688 5665
+           Invoice Number: 8535
+Server: Joe         Date: 2021-11-12
+Table: 5               Time: 23:31:54
+
+Order Details
+=========================================
+Ordered AlaCarte items: 
+Amount  Name                    Price
+1       Soup                    $5.00
+
+=========================================
+SubTotal:                       $5.00
+10% Service Charge:             $0.50
+7% GST:                         $0.39
+Total (inclusive of GST):       $5.85
+

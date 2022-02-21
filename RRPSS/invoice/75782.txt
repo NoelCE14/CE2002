@@ -1,0 +1,34 @@
+               _..----.._       
+             .'     o    '.     
+            /   o       o  \    
+           |o        o     o|   
+           /'-.._o     __.-'\   
+           \      `````     /   
+           |``--........--'`|    
+            \              /
+             `'----------'`
+            Bad Street Kitchen
+            10 BayFront Avenue
+            Tel: +65 6688 5665
+           Invoice Number: 75782
+Server: HaoRen         Date: 2021-11-13
+Table: 5               Time: 18:35:46
+
+Order Details
+=========================================
+Ordered PromoSet items: 
+Amount  Name                    Price
+1       2 Course                $214.00
+
+Ordered AlaCarte items: 
+Amount  Name                    Price
+1       Cottage Pie             $38.00
+1       Wagyu Burger            $80.00
+
+=========================================
+SubTotal:                       $332.00
+10% Service Charge:             $33.20
+7% GST:                         $25.56
+15% Membership Discount:       -$49.80
+Total (inclusive of GST):       $338.64
+

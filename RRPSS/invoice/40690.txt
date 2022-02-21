@@ -1,0 +1,24 @@
+               _..----.._       
+             .'     o    '.     
+            /   o       o  \    
+           |o        o     o|   
+           /'-.._o     __.-'\   
+           \      `````     /   
+           |``--........--'`|    
+            \              /
+             `'----------'`
+                BergarKeng
+            10 BayFront Avenue
+            Tel: +65 9829 3217
+           Invoice Number: 40690
+Server: HaoRen         Date: 2021-11-13
+Table: 5               Time: 14:58:08
+
+Order Details
+=========================================
+=========================================
+SubTotal:                       $0.00
+10% Service Charge:             $0.00
+7% GST:                         $0.00
+Total (inclusive of GST):       $0.00
+

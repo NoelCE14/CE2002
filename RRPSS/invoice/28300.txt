@@ -1,0 +1,35 @@
+               _..----.._       
+             .'     o    '.     
+            /   o       o  \    
+           |o        o     o|   
+           /'-.._o     __.-'\   
+           \      `````     /   
+           |``--........--'`|    
+            \              /
+             `'----------'`
+            Bad Street Kitchen
+            10 BayFront Avenue
+            Tel: +65 6688 5665
+           Invoice Number: 28300
+Server: Joe         Date: 2021-11-12
+Table: 1              Time: 12:03:59
+
+Order Details
+=========================================
+Ordered AlaCarte items: 
+Amount  Name                    Price
+2       Burger                  $4.00
+1       LapDanceByLeCong        $250.00
+1       MangoJuice              $5.00
+
+Ordered PromoSet items: 
+Amount  Name                    Price
+2       goodDinnerB             $64.00
+1       goodDinnerA             $300.00
+
+=========================================
+SubTotal:                       $623.00
+10% Service Charge:             $62.30
+7% Service Charge:              $43.61
+Total (inclusive of GST):       $728.91
+

@@ -1,0 +1,4 @@
+timeOfReservation | customerName | phoneNumber | pax | name | gender | employeeID | jobTitle | tableNumber | tableSize
+2021-11-14T12:00,Timothy,98765432,6,Joe,MALE,377,Manager,5,5
+2021-11-14T12:00,Chris,90876432,6,Joe,MALE,377,Manager,6,6
+2021-11-14T19:00,Susie,87654321,6,Joe,MALE,377,Manager,6,6
