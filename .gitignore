@@ -9,7 +9,6 @@
 *.dll.config
 *.cache
 *.suo
-RRPSS/*.docx
 # Include dlls if they’re in the NuGet packages directory
 !/packages/*/lib/*.dll
 # Include dlls if they're in the CommonReferences directory
@@ -58,3 +57,4 @@ TestResults/
 ehthumbs.db
 Icon?
 Thumbs.db
+*.docx
