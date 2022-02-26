@@ -9,6 +9,7 @@
 *.dll.config
 *.cache
 *.suo
+*.html
 # Include dlls if they’re in the NuGet packages directory
 !/packages/*/lib/*.dll
 # Include dlls if they're in the CommonReferences directory
@@ -24,6 +25,7 @@ _UpgradeReport_Files/
 bin/
 obj/
 TestResults/
+html/
 ###################
 # Web publish log #
 ###################
@@ -58,4 +60,3 @@ ehthumbs.db
 Icon?
 Thumbs.db
 ~$*.doc*
-html/
